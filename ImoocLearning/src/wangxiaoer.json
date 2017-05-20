@@ -1,0 +1,12 @@
+{
+    "address": "Wall Street",
+    "hobbies": [
+        "ball",
+        "music",
+        "reading"
+    ],
+    "name": "jack",
+    "married": true,
+    "class": "class com.jack.imooc.json.User",
+    "age": 27
+}
